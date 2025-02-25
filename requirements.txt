@@ -1,0 +1,6 @@
+# Command to install - pip install -r requirements.txt
+streamlit
+python-dotenv # meant for local vars...
+langchain
+langchain-google-genai
+google-generativeai
